@@ -1,0 +1,5 @@
+## NEXT LAN
+# type
+```
+nextlan
+```
